@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "com.8tricks.trackpill",
+        "paths": [ "NOT /e/*", "*", "/", “/archives/201?/* ]
+      }
+    ]
+  }
+}
